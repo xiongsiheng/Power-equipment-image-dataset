@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20221222_czjyz_lw_hg362.jpg</filename>
+	<path>G:\IFUDA2022\voc1\JPEGImages\20221222_czjyz_lw_hg362.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_lw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1601</xmin>
+			<ymin>1092</ymin>
+			<xmax>2745</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+</annotation>

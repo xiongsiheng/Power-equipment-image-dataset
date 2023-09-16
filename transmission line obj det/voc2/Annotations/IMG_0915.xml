@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_0915.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc2\JPEGImages\IMG_0915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1339</xmin>
+			<ymin>1192</ymin>
+			<xmax>2635</xmax>
+			<ymax>2548</ymax>
+		</bndbox>
+	</object>
+</annotation>

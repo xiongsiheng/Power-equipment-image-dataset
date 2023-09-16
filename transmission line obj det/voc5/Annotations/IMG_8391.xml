@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_8391.jpg</filename>
+	<path>G:\IFUDA2022\voc5\JPEGImages\IMG_8391.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2380</xmin>
+			<ymin>706</ymin>
+			<xmax>3148</xmax>
+			<ymax>1334</ymax>
+		</bndbox>
+	</object>
+</annotation>

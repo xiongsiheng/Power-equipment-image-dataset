@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_7242.jpg</filename>
+	<path>G:\IFUDA2022\voc5\JPEGImages\IMG_7242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1812</xmin>
+			<ymin>501</ymin>
+			<xmax>2912</xmax>
+			<ymax>1909</ymax>
+		</bndbox>
+	</object>
+</annotation>

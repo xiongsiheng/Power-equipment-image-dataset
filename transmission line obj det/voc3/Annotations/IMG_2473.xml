@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>IMG_2473.jpg</filename>
+	<path>IFUDA2022/IMG_2473.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1115</xmin>
+			<ymin>551</ymin>
+			<xmax>1319</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>

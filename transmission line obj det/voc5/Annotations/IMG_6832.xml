@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_6832.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc5\JPEGImages\IMG_6832.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2014</xmin>
+			<ymin>419</ymin>
+			<xmax>2206</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+</annotation>

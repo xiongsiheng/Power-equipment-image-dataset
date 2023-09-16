@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI_0255.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc2\JPEGImages\DJI_0255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4056</width>
+		<height>2280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1573</xmin>
+			<ymin>874</ymin>
+			<xmax>1670</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+</annotation>

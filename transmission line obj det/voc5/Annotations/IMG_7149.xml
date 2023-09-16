@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>IMG_7149.jpg</filename>
+	<path>IFUDA2022/IMG_7149.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1547</xmin>
+			<ymin>958</ymin>
+			<xmax>2014</xmax>
+			<ymax>1263</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>a11bbddc-6e05-11ed-ac38-0242ac110003.jpg</filename>
+	<path>IFUDA2022/a11bbddc-6e05-11ed-ac38-0242ac110003.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>88</ymin>
+			<xmax>423</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

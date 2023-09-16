@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_2755.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc3\JPEGImages\IMG_2755.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_lh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2175</xmin>
+			<ymin>1209</ymin>
+			<xmax>3201</xmax>
+			<ymax>2514</ymax>
+		</bndbox>
+	</object>
+</annotation>

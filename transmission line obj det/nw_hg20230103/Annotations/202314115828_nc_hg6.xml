@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>202314115828_nc_hg6.jpg</filename>
+	<path>F:\nw_hg20230103\JPEGImages\202314115828_nc_hg6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymin>928</ymin>
+			<xmax>1199</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+</annotation>

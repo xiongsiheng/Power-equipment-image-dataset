@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_hhhhhhhhhhhhh692440.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc6\JPEGImages\IMG_hhhhhhhhhhhhh692440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>216</ymin>
+			<xmax>1312</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3681</xmin>
+			<ymin>1258</ymin>
+			<xmax>3970</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+</annotation>

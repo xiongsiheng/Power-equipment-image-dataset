@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_2845.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc3\JPEGImages\IMG_2845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1519</xmin>
+			<ymin>262</ymin>
+			<xmax>2435</xmax>
+			<ymax>1568</ymax>
+		</bndbox>
+	</object>
+</annotation>

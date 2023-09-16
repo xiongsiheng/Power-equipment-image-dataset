@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>10kV配电线路无人机精细化巡检报告_121.jpg</filename>
+	<path>G:\IFUDA2022\voc1\JPEGImages\10kV配电线路无人机精细化巡检报告_121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1485</width>
+		<height>835</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>283</ymin>
+			<xmax>916</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

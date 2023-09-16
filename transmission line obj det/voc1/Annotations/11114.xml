@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>11114.jpg</filename>
+	<path>G:\IFUDA2022\voc1\JPEGImages\11114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gydxjd_fh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>1132</ymin>
+			<xmax>1388</xmax>
+			<ymax>2280</ymax>
+		</bndbox>
+	</object>
+</annotation>

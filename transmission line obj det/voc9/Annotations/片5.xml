@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>片5.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc9\JPEGImages\片5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2142</xmin>
+			<ymin>299</ymin>
+			<xmax>3298</xmax>
+			<ymax>1723</ymax>
+		</bndbox>
+	</object>
+</annotation>

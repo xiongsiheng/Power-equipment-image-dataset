@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_3129.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc3\JPEGImages\IMG_3129.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1562</xmin>
+			<ymin>194</ymin>
+			<xmax>2998</xmax>
+			<ymax>1531</ymax>
+		</bndbox>
+	</object>
+</annotation>

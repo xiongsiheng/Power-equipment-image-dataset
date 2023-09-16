@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>jyz-ps2626.jpg</filename>
+	<path>G:\IFUDA2023\voc9\JPEGImages\jyz-ps2626.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1353</xmin>
+			<ymin>1430</ymin>
+			<xmax>1663</xmax>
+			<ymax>1642</ymax>
+		</bndbox>
+	</object>
+</annotation>

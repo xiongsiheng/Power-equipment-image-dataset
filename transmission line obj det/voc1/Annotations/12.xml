@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>12.jpg</filename>
+	<path>IFUDA2022/12.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_tl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2733</xmin>
+			<ymin>2544</ymin>
+			<xmax>2973</xmax>
+			<ymax>2892</ymax>
+		</bndbox>
+	</object>
+</annotation>

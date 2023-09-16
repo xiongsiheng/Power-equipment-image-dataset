@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>err_20230109zxj25.JPG</filename>
+	<path>G:\IFUDA2023\voc10\JPEGImages\err_20230109zxj25.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>818</xmin>
+			<ymin>531</ymin>
+			<xmax>1014</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>

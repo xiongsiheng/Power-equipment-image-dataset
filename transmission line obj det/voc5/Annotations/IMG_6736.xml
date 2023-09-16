@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_6736.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc5\JPEGImages\IMG_6736.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yxdk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>873</xmin>
+			<ymin>1130</ymin>
+			<xmax>3616</xmax>
+			<ymax>2469</ymax>
+		</bndbox>
+	</object>
+</annotation>

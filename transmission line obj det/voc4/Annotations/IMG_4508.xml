@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_4508.jpg</filename>
+	<path>G:\IFUDA2022\voc4\JPEGImages\IMG_4508.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_lw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1719</xmin>
+			<ymin>10</ymin>
+			<xmax>1915</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

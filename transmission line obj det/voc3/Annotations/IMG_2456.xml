@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_2456.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc3\JPEGImages\IMG_2456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>268</xmin>
+			<ymin>943</ymin>
+			<xmax>609</xmax>
+			<ymax>1404</ymax>
+		</bndbox>
+	</object>
+</annotation>

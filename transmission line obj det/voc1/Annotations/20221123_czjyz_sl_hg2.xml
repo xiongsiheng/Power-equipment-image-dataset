@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_20221123_hg</folder>
+	<filename>20221123_czjyz_sl_hg2.jpg</filename>
+	<path>IFUDA2022/20221123_czjyz_sl_hg2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>2012</ymin>
+			<xmax>1050</xmax>
+			<ymax>2129</ymax>
+		</bndbox>
+	</object>
+</annotation>

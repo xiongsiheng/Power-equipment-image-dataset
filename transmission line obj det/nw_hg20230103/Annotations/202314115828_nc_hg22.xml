@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>202314115828_nc_hg22.jpg</filename>
+	<path>F:\nw_hg20230103\JPEGImages\202314115828_nc_hg22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2169</xmin>
+			<ymin>865</ymin>
+			<xmax>2663</xmax>
+			<ymax>1259</ymax>
+		</bndbox>
+	</object>
+</annotation>

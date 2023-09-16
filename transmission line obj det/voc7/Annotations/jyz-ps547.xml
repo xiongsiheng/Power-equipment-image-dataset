@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>jyz-ps547.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc7\JPEGImages\jyz-ps547.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fhjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2098</xmin>
+			<ymin>720</ymin>
+			<xmax>2520</xmax>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>jsz82895.jpg</filename>
+	<path>G:\IFUDA2022\voc6\JPEGImages\jsz82895.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1544</xmin>
+			<ymin>534</ymin>
+			<xmax>1873</xmax>
+			<ymax>906</ymax>
+		</bndbox>
+	</object>
+</annotation>

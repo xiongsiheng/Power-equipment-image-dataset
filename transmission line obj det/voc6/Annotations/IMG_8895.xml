@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>IMG_8895.jpg</filename>
+	<path>IFUDA2022/IMG_8895.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_dg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2170</xmin>
+			<ymin>1649</ymin>
+			<xmax>2559</xmax>
+			<ymax>2122</ymax>
+		</bndbox>
+	</object>
+</annotation>

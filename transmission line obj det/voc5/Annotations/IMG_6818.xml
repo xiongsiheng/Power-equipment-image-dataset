@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_6818.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc5\JPEGImages\IMG_6818.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1332</xmin>
+			<ymin>514</ymin>
+			<xmax>1643</xmax>
+			<ymax>910</ymax>
+		</bndbox>
+	</object>
+</annotation>

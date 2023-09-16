@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>jyz-ps320.jpg</filename>
+	<path>G:\IFUDA2022\voc6\JPEGImages\jyz-ps320.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1702</xmin>
+			<ymin>1566</ymin>
+			<xmax>2227</xmax>
+			<ymax>1945</ymax>
+		</bndbox>
+	</object>
+</annotation>

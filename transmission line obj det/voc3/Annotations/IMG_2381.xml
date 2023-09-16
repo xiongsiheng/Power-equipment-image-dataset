@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_2381.jpg</filename>
+	<path>G:\IFUDA2022\voc3\JPEGImages\IMG_2381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2337</xmin>
+			<ymin>1330</ymin>
+			<xmax>3223</xmax>
+			<ymax>1881</ymax>
+		</bndbox>
+	</object>
+</annotation>

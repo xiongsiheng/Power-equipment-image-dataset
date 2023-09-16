@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>16.jpg</filename>
+	<path>G:\IFUDA2022\voc1\JPEGImages\16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4864</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2155</xmin>
+			<ymin>1551</ymin>
+			<xmax>2387</xmax>
+			<ymax>1815</ymax>
+		</bndbox>
+	</object>
+</annotation>

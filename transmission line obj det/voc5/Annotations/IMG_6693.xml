@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_6693.jpg</filename>
+	<path>G:\IFUDA2022\voc5\JPEGImages\IMG_6693.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_dg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1425</xmin>
+			<ymin>993</ymin>
+			<xmax>3013</xmax>
+			<ymax>2433</ymax>
+		</bndbox>
+	</object>
+</annotation>

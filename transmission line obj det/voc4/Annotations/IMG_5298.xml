@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_5298.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc4\JPEGImages\IMG_5298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>1556</ymin>
+			<xmax>1380</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+</annotation>

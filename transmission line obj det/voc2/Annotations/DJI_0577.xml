@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>DJI_0577.jpg</filename>
+	<path>IFUDA2022/DJI_0577.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3078</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3416</xmin>
+			<ymin>1952</ymin>
+			<xmax>3601</xmax>
+			<ymax>2239</ymax>
+		</bndbox>
+	</object>
+</annotation>

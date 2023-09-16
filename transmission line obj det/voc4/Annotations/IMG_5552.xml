@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_5552.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc4\JPEGImages\IMG_5552.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yx_dk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1423</xmin>
+			<ymin>2347</ymin>
+			<xmax>2373</xmax>
+			<ymax>3047</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yx_dk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2216</xmin>
+			<ymin>151</ymin>
+			<xmax>3023</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

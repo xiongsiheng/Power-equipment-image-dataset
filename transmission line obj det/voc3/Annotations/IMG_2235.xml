@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_2235.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc3\JPEGImages\IMG_2235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>104</ymin>
+			<xmax>367</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

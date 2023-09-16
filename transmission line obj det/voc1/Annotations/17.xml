@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>17.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc1\JPEGImages\17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4864</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2774</xmin>
+			<ymin>2038</ymin>
+			<xmax>2894</xmax>
+			<ymax>2214</ymax>
+		</bndbox>
+	</object>
+</annotation>

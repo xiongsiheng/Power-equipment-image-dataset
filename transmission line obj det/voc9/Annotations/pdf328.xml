@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>pdf328.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc9\JPEGImages\pdf328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2144</xmin>
+			<ymin>1685</ymin>
+			<xmax>2875</xmax>
+			<ymax>3193</ymax>
+		</bndbox>
+	</object>
+</annotation>

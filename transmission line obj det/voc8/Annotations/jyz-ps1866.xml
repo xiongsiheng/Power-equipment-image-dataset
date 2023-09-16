@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IFUDA2022</folder>
+	<filename>jyz-ps1866.jpg</filename>
+	<path>IFUDA2022/jyz-ps1866.jpg</path>
+	<source>
+		<database>IFUDA-配网缺陷检测</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2703</xmin>
+			<ymin>1140</ymin>
+			<xmax>2937</xmax>
+			<ymax>1296</ymax>
+		</bndbox>
+	</object>
+</annotation>

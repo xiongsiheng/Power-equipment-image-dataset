@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>图1111111片1.jpg</filename>
+	<path>G:\IFUDA2023\voc9\JPEGImages\图1111111片1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>172</ymin>
+			<xmax>454</xmax>
+			<ymax>528</ymax>
+		</bndbox>
+	</object>
+</annotation>

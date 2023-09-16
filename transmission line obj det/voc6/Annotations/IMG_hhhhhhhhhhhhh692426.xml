@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_hhhhhhhhhhhhh692426.jpg</filename>
+	<path>G:\IFUDA2022\voc6\JPEGImages\IMG_hhhhhhhhhhhhh692426.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1837</xmin>
+			<ymin>156</ymin>
+			<xmax>3106</xmax>
+			<ymax>2459</ymax>
+		</bndbox>
+	</object>
+</annotation>

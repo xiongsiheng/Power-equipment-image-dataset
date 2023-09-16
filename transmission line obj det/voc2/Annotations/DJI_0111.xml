@@ -1,0 +1,14 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>DJI_0111.jpg</filename>
+	<path>G:\IFUDA2022\voc2\JPEGImages\DJI_0111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4056</width>
+		<height>3040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

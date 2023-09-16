@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_hhhhhhhhhhhhh692436.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc6\JPEGImages\IMG_hhhhhhhhhhhhh692436.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1721</xmin>
+			<ymin>248</ymin>
+			<xmax>2727</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>blq_jyjc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2645</xmin>
+			<ymin>2997</ymin>
+			<xmax>3027</xmax>
+			<ymax>3272</ymax>
+		</bndbox>
+	</object>
+</annotation>

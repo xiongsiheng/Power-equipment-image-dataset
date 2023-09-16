@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_20221123_hg</folder>
+	<filename>20221123_czjyz_ps_hg12.jpg</filename>
+	<path>IFUDA2022/20221123_czjyz_ps_hg12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2426</xmin>
+			<ymin>1310</ymin>
+			<xmax>2526</xmax>
+			<ymax>1394</ymax>
+		</bndbox>
+	</object>
+</annotation>

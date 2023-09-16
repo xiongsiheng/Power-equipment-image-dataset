@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_3903.jpg</filename>
+	<path>G:\IFUDA2022\voc4\JPEGImages\IMG_3903.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_sg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2142</xmin>
+			<ymin>1689</ymin>
+			<xmax>2452</xmax>
+			<ymax>1995</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_7105.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc5\JPEGImages\IMG_7105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1481</xmin>
+			<ymin>320</ymin>
+			<xmax>1986</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

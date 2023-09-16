@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20221229_dx_sg_cz108.jpg</filename>
+	<path>C:\Users\cz\Desktop\dx_sg_cz20221229\JPEGImages\20221229_dx_sg_cz108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_sg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1639</xmin>
+			<ymin>846</ymin>
+			<xmax>2180</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+</annotation>

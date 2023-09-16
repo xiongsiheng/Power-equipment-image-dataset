@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>jyz-ps2909.jpg</filename>
+	<path>C:\Users\huang\Desktop\voc9\JPEGImages\jyz-ps2909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1287</xmin>
+			<ymin>1058</ymin>
+			<xmax>1691</xmax>
+			<ymax>1356</ymax>
+		</bndbox>
+	</object>
+</annotation>

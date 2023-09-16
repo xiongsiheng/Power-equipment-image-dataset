@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_8423.jpg</filename>
+	<path>G:\IFUDA2022\voc5\JPEGImages\IMG_8423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jj_jxps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1890</xmin>
+			<ymin>960</ymin>
+			<xmax>3023</xmax>
+			<ymax>2031</ymax>
+		</bndbox>
+	</object>
+</annotation>

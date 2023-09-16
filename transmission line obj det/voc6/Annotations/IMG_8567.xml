@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IMG_8567.jpg</filename>
+	<path>E:\新建文件夹 (2)\voc6\JPEGImages\IMG_8567.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_dg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2366</xmin>
+			<ymin>1544</ymin>
+			<xmax>2598</xmax>
+			<ymax>1765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dx_dg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1502</xmin>
+			<ymin>283</ymin>
+			<xmax>1766</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>
