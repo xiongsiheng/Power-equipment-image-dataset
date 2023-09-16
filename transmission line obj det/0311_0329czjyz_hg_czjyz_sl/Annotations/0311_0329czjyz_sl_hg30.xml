@@ -1,0 +1,26 @@
+<annotation>
+	<folder>czjyz_sl</folder>
+	<filename>0311_0329czjyz_sl_hg30.jpg</filename>
+	<path>D:\样本库\IFUDA2023.4.11\0311_0329czjyz_hg\czjyz_sl\0311_0329czjyz_sl_hg30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_sl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1738</xmin>
+			<ymin>1257</ymin>
+			<xmax>2300</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>

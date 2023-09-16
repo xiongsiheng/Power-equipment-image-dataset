@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0306_0310dx_hg</folder>
+	<filename>IMG_3267.JPG</filename>
+	<path>D:\样本库\IFUDA2023.4.11\0306_0310dx_hg\IMG_3267.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dx_jypps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2404</xmin>
+			<ymin>890</ymin>
+			<xmax>3257</xmax>
+			<ymax>1370</ymax>
+		</bndbox>
+	</object>
+</annotation>

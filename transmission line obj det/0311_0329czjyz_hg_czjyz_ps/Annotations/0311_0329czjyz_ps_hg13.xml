@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>czjyz_ps</folder>
+	<filename>0311_0329czjyz_ps_hg13.jpg</filename>
+	<path>D:\样本库\IFUDA2023.4.11\0311_0329czjyz_hg\czjyz_ps\0311_0329czjyz_ps_hg13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>czjyz_ps</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1821</xmin>
+			<ymin>539</ymin>
+			<xmax>3097</xmax>
+			<ymax>924</ymax>
+		</bndbox>
+	</object>
+</annotation>
