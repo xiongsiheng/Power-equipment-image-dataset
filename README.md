@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-  <img src='https://raw.githubusercontent.com/xiongsiheng/Power-equipment-image-dataset/main/misc/transmission_line.png' width=550>
+  <img src='https://raw.githubusercontent.com/xiongsiheng/Power-equipment-image-dataset/main/misc/transmission_line.JPG' width=550>
 </p>
 
 ## Introduction
