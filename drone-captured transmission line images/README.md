@@ -1,0 +1,1 @@
+Please directly download from [here](https://huggingface.co/datasets/sxiong/Power-equipment-image-dataset).

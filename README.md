@@ -9,11 +9,12 @@
 </p>
 
 ## Introduction
-The **Power Equipment Image Dataset** consists of three subsets designed for various computer vision tasks related to power systems:
+The **Power Equipment Image Dataset** consists of four subsets designed for various computer vision tasks related to power systems:
 
 1. **Substation Object Detection**
 2. **Transmission Line Classification**
 3. **Transmission Line Object Detection**
+4. **Drone-captured transmission line images**
 
 ### 1. Substation Object Detection
 
@@ -87,6 +88,10 @@ This subset contains **10,348 transmission line images** annotated with **boundi
 * **Bird Nest on Line** (Chinese: 鸟窝, *pinyin*: niǎo wō, abbreviation: `nw`)
 * **Foreign Object** (Chinese: 异物, *pinyin*: yì wù, abbreviation: `yw`)
 * **Ground Lead Broken** (Chinese: 引线断开, *pinyin*: yǐn xiàn duàn kāi, abbreviation: `yxdk`)
+
+### 4. Drone-Captured Transmission Line Images
+
+This subset consists of approximately **3,000 high-resolution images** of transmission lines captured by drones under real-world conditions.
 
 
 ## Quick Start
